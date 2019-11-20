@@ -9,5 +9,6 @@
 * [Jimenez Montilla, Adrián - Ionic Project](https://github.com/AdrianJimenezMontilla/Ionic-Project)
 * [Pacheco Matas, Rubén - Ionic Project](https://github.com/rubenpachecomatas/Ionic-Project)
 * [Sevilla Ruiz, Borja - Ionic Project](https://github.com/bsevrui/Proyecto-Ionic)
+* [Campos Vega, Álvaro - Ionic Project](https://github.com/AlvaroCamposVega/Ion-Project)
 
 

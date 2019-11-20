@@ -10,6 +10,7 @@
 * [Haller Ríos, Lino - Wista](https://github.com/LinoHallerRios/Wista_Ionic)
 * [Jimenez Montilla, Adrián - Ionic Project](https://github.com/AdrianJimenezMontilla/Ionic-Project)
 * [Pacheco Matas, Rubén - Ionic Project](https://github.com/rubenpachecomatas/Ionic-Project)
+* [Pérez Molina, Iván - ProCampo](https://github.com/ivanperezmolina/Ionic-ProCampo)
 * [Sevilla Ruiz, Borja - Ionic Project](https://github.com/bsevrui/Proyecto-Ionic)
 
 

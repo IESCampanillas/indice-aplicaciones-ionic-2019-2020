@@ -2,6 +2,6 @@
 
 Índice a las aplicaciones hechas en Ionic de 2º DAM (curso 2019 - 2020)
 
-* [Amo Olsson, Christian - Título](https://github.com/christianraulamo/repo)
+* [Pacheco Matas, Rubén - Ionic Project](https://github.com/rubenpachecomatas/Ionic-Project)
 
 

@@ -7,6 +7,7 @@
 * [del Pino Heredia, Laura - Mustify](https://github.com/lauradelpino24/Ionic-Angular-Mustify.git)
 * [Galera García, José Ángel - Ionic Project](https://github.com/joseangelgalera/Proyecto-Ionic)
 * [García Molina, Jorge - Ionic Project](https://github.com/jorgegarcia1996/Ionic-Project)
+* [García Serrano, Alejandro - Ionic Project](https://github.com/Alegarse/IonicApp)
 * [Haller Ríos, Lino - Wista](https://github.com/LinoHallerRios/Wista_Ionic)
 * [Jimenez Montilla, Adrián - Ionic Project](https://github.com/AdrianJimenezMontilla/Ionic-Project)
 * [Pacheco Matas, Rubén - Ionic Project](https://github.com/rubenpachecomatas/Ionic-Project)

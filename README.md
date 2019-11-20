@@ -6,6 +6,6 @@
 * [Galera García, José Ángel - Ionic Project](https://github.com/joseangelgalera/Proyecto-Ionic)
 * [García Molina, Jorge - Ionic Project](https://github.com/jorgegarcia1996/Ionic-Project)
 * [Pacheco Matas, Rubén - Ionic Project](https://github.com/rubenpachecomatas/Ionic-Project)
+* [Sevilla Ruiz, Borja - Ionic Project](https://github.com/bsevrui/Proyecto-Ionic)
 * [Jimenez Montilla, Adrián - Ionic Project](https://github.com/AdrianJimenezMontilla/Ionic-Project)
-
 

@@ -8,7 +8,7 @@
 * [del Pino Heredia, Laura - Mustify](https://github.com/lauradelpino24/Ionic-Angular-Mustify.git)
 * [Galera García, José Ángel - Ionic Project](https://github.com/joseangelgalera/Proyecto-Ionic)
 * [García Molina, Jorge - Ionic MyAnimeList](https://github.com/jorgegarcia1996/IonicMAL)
-* [García Serrano, Alejandro - Ionic Project](https://github.com/Alegarse/IonicApp)
+* [García Serrano, Alejandro - Maipets](https://github.com/Alegarse/Maipets)
 * [Gómez Martín, José María](https://github.com/josemariagomez/fifavoritos-ionic)
 * [Haller Ríos, Lino - Wista](https://github.com/LinoHallerRios/Wista_Ionic)
 * [Jimenez Montilla, Adrián - NBA Master 2.0](https://github.com/AdrianJimenezMontilla/Ionic-Project)

@@ -7,7 +7,7 @@
 * [Campos Vega, Álvaro - Guitar Wiki](https://github.com/AlvaroCamposVega/Guitar-Wiki)
 * [del Pino Heredia, Laura - Mustify](https://github.com/lauradelpino24/Ionic-Angular-Mustify.git)
 * [Galera García, José Ángel - Ionic Project](https://github.com/joseangelgalera/Proyecto-Ionic)
-* [García Molina, Jorge - Ionic Project](https://github.com/jorgegarcia1996/Ionic-Project)
+* [García Molina, Jorge - Ionic MyAnimeList](https://github.com/jorgegarcia1996/IonicMAL)
 * [García Serrano, Alejandro - Ionic Project](https://github.com/Alegarse/IonicApp)
 * [Gómez Martín, José María](https://github.com/josemariagomez/fifavoritos-ionic)
 * [Haller Ríos, Lino - Wista](https://github.com/LinoHallerRios/Wista_Ionic)

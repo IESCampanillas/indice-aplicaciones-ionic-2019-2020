@@ -14,7 +14,7 @@
 * [Jimenez Montilla, Adrián - NBA Master 2.0](https://github.com/AdrianJimenezMontilla/Ionic-Project)
 * [Jimenez Quintana, Jose Daniel](https://github.com/danieljimenezquintana/Forocars.git)
 * [Pacheco Matas, Rubén - Ionic Project](https://github.com/rubenpachecomatas/Ionic-Project)
-* [Pérez Molina, Iván - ProCampo](https://github.com/ivanperezmolina/Ionic-ProCampo)
+* [Pérez Molina, Iván - ProCampo](https://github.com/ivanperezmolina/ProCampo-en-Ionic)
 * [Santos Bernal, Clemente - ProyectoIonic](https://github.com/ClementeSantos/ProyectoIonic)
 * [Sevilla Ruiz, Borja - Ionic Project](https://github.com/bsevrui/Proyecto-Ionic)
 

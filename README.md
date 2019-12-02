@@ -18,7 +18,7 @@
 * [Pérez Molina, Iván - ProCampo](https://github.com/ivanperezmolina/ProCampo-en-Ionic)
 * [Santos Bernal, Clemente - ProyectoIonic](https://github.com/ClementeSantos/ProyectoIonic)
 * [Sevilla Ruiz, Borja - Ionic Project](https://github.com/bsevrui/Proyecto-Ionic)
-* [Ángel López Molina - Pixcrate Snap](https://github.com/almAngel/ion-pixcrate)
+* [Ángel López Molina - Pixcrate Snap](https://github.com/almAngel/ion-pixcrate) --> [Video](https://youtu.be/4oswZ0sX7V8)
 
 
 

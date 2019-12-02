@@ -2,7 +2,8 @@
 
 Índice a las aplicaciones hechas en Ionic de 2º DAM (curso 2019 - 2020)
 
-* [Aragón Rodríguez, Rafael - BoozeR](https://github.com/rafaelaragon/Ionic-BoozeR)
+* [Aragón Rodríguez, Rafael - BoozeR](https://github.com/rafaelaragon/Ionic-BoozeR) --> 
+[Vídeo](https://www.youtube.com/watch?v=lYuCu-yQ_UA&feature=youtu.be)
 * [Aranda Navarro, Juan Luis - InfoLeague](https://github.com/JuanLuisAranda/InfoLeague)
 * [Campos Vega, Álvaro - Guitar Wiki](https://github.com/AlvaroCamposVega/Guitar-Wiki)
 * [del Pino Heredia, Laura - Mustify](https://github.com/lauradelpino24/Ionic-Angular-Mustify.git) -- [Video](https://www.youtube.com/watch?v=e962GMWvW0M)

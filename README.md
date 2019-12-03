@@ -12,7 +12,8 @@
 * [García Serrano, Alejandro - Maipets](https://github.com/Alegarse/Maipets) --- [Video-demostración](https://youtu.be/NTXp5AEM3MY)
 * [Gómez Martín, José María](https://github.com/josemariagomez/fifavoritos-ionic)
 * [Haller Ríos, Lino - Wista](https://github.com/LinoHallerRios/Wista_Ionic)
-* [Jimenez Montilla, Adrián - NBA Master 2.0](https://github.com/AdrianJimenezMontilla/NBA-master-2.0)
+* [Jimenez Montilla, Adrián - NBA Master 2.0](https://github.com/AdrianJimenezMontilla/NBA-master-2.0) --> 
+[Vídeo](https://youtu.be/N9omM2gQ1R0)
 * [Jimenez Quintana, Jose Daniel](https://github.com/danieljimenezquintana/Forocars.git)
 * [Pacheco Matas, Rubén - Ionic Project](https://github.com/rubenpachecomatas/Ionic-Project)
 * [Pérez Molina, Iván - ProCampo](https://github.com/ivanperezmolina/ProCampo-en-Ionic)

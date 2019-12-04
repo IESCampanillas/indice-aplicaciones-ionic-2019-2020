@@ -19,7 +19,7 @@
 * [Pacheco Matas, Rubén - Suplicio Mobile](https://github.com/rubenpachecomatas/Ionic-Project) --> [Vídeo](https://youtu.be/Ou2u9MXg44A)
 * [Pérez Molina, Iván - ProCampo](https://github.com/ivanperezmolina/ProCampo-en-Ionic)
 * [Santos Bernal, Clemente - ProyectoIonic](https://github.com/ClementeSantos/ProyectoIonic)
-* [Sevilla Ruiz, Borja - Ionic Project](https://github.com/bsevrui/Proyecto-Ionic)
+* [Sevilla Ruiz, Borja - Ionic Project](https://github.com/bsevrui/Proyecto-Ionic) --> [Video](https://drive.google.com/file/d/1wuz8sinDdemljtTR5TY1_B_55Z4gTwhf/view?usp=sharing)
 * [Ángel López Molina - Pixcrate Snap](https://github.com/almAngel/ion-pixcrate) --> [Video](https://youtu.be/4oswZ0sX7V8)
 
 

@@ -5,7 +5,7 @@
 * [Aragón Rodríguez, Rafael - BoozeR](https://github.com/rafaelaragon/Ionic-BoozeR) --> 
 [Vídeo](https://www.youtube.com/watch?v=lYuCu-yQ_UA&feature=youtu.be)
 * [Aranda Navarro, Juan Luis - InfoLeague](https://github.com/JuanLuisAranda/InfoLeague)
-* [Campos Vega, Álvaro - Guitar Wiki](https://github.com/AlvaroCamposVega/Guitar-Wiki)
+* [Campos Vega, Álvaro - Guitar Wiki](https://github.com/AlvaroCamposVega/Guitar-Wiki) --> [Vídeo](https://www.youtube.com/watch?v=aRyDkEVM1zk&feature=youtu.be)
 * [del Pino Heredia, Laura - Mustify](https://github.com/lauradelpino24/Ionic-Angular-Mustify.git) -- [Video](https://www.youtube.com/watch?v=e962GMWvW0M)
 * [Flores Padilla, Lucía - Cooking](https://github.com/luciaflores25/PROYECTO_IONIC)
 * [Galera García, José Ángel - Ionic Project](https://github.com/joseangelgalera/Proyecto-Ionic)

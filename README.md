@@ -2,6 +2,8 @@
 
 Índice a las aplicaciones hechas en Ionic de 2º DAM (curso 2019 - 2020)
 
+## Primer trimestre
+
 * [Aragón Rodríguez, Rafael - BoozeR](https://github.com/rafaelaragon/Ionic-BoozeR) --> 
 [Vídeo](https://www.youtube.com/watch?v=lYuCu-yQ_UA&feature=youtu.be)
 * [Aranda Navarro, Juan Luis - InfoLeague](https://github.com/JuanLuisAranda/InfoLeague)
@@ -23,6 +25,6 @@
 * [Sevilla Ruiz, Borja - Ionic Project](https://github.com/bsevrui/Proyecto-Ionic) --> [Video](https://drive.google.com/file/d/1wuz8sinDdemljtTR5TY1_B_55Z4gTwhf/view?usp=sharing)
 
 
+## Segundo trimestre
 
-
-
+* [López Molina, Ángel - Pixcrate Snap](https://github.com/almAngel/ion-pixcrate)

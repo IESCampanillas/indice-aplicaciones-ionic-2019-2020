@@ -28,5 +28,6 @@
 ## Segundo trimestre
 
 * [Aranda Navarro, Juan Luis - InfoLeague](https://github.com/JuanLuisAranda/InfoLeague)
+* [García Serrano, Alejandro - Maipets](https://github.com/Alegarse/Maipetsv2)
 * [López Molina, Ángel - Pixcrate Snap](https://github.com/almAngel/ion-pixcrate)
 * [Jimenez Montilla, Adrián - NBA Master 2.0](https://github.com/AdrianJimenezMontilla/NBA-master-v2) --> [Vídeo](https://youtu.be/Dtr43YZ779w) 

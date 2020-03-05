@@ -12,7 +12,7 @@
 * [Flores Padilla, Lucía - Cooking](https://github.com/luciaflores25/PROYECTO_IONIC)
 * [Galera García, José Ángel - Ionic Project](https://github.com/joseangelgalera/Proyecto-Ionic)
 * [García Molina, Jorge - Ionic MyAnimeList](https://github.com/jorgegarcia1996/IonicMAL) --> [Video](https://youtu.be/ui57IxJW7ZM)
-* [García Serrano, Alejandro - Maipets](https://github.com/Alegarse/Maipets) --- [Video-demostración](https://youtu.be/NTXp5AEM3MY)
+* [García Serrano, Alejandro - Maipets 1.0](https://github.com/Alegarse/Maipets) --- [Video-demostración](https://youtu.be/NTXp5AEM3MY)
 * [Gómez Martín, José María](https://github.com/josemariagomez/fifavoritos-ionic)
 * [Haller Ríos, Lino - Wista](https://github.com/LinoHallerRios/Wista_Ionic)
 * [Jimenez Montilla, Adrián - NBA Master 2.0](https://github.com/AdrianJimenezMontilla/NBA-master/blob/master/README.md) --> 
@@ -28,6 +28,6 @@
 ## Segundo trimestre
 
 * [Aranda Navarro, Juan Luis - InfoLeague](https://github.com/JuanLuisAranda/InfoLeague)
-* [García Serrano, Alejandro - Maipets](https://github.com/Alegarse/Maipetsv2) --- [Video-demostración](https://youtu.be/FQEQqtI_aa0)
+* [García Serrano, Alejandro - Maipets 2.0](https://github.com/Alegarse/Maipetsv2) --- [Video-demostración](https://youtu.be/FQEQqtI_aa0)
 * [López Molina, Ángel - Pixcrate Snap](https://github.com/almAngel/ion-pixcrate)
 * [Jimenez Montilla, Adrián - NBA Master 2.0](https://github.com/AdrianJimenezMontilla/NBA-master-v2) --> [Vídeo](https://youtu.be/Dtr43YZ779w) 

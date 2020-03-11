@@ -29,5 +29,5 @@
 
 * [Aranda Navarro, Juan Luis - InfoLeague](https://github.com/JuanLuisAranda/InfoLeague)
 * [García Serrano, Alejandro - Maipets 2.0](https://github.com/Alegarse/Maipetsv2) --- [Video-demostración](https://youtu.be/FQEQqtI_aa0)
-* [López Molina, Ángel - Pixcrate Snap](https://github.com/almAngel/ion-pixcrate)
+* [López Molina, Ángel - Pixcrate Snap](https://github.com/almAngel/ion-pixcrate) -> [Video](https://youtu.be/LKtrHT7tnUE)
 * [Jimenez Montilla, Adrián - NBA Master 2.0](https://github.com/AdrianJimenezMontilla/NBA-master-v2) --> [Vídeo](https://youtu.be/Dtr43YZ779w) 
